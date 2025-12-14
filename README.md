@@ -1,0 +1,155 @@
+# LegalCheckAIPrivacyPolicy
+
+# Privacy Policy / Gizlilik Politikası
+
+**LegalCheckAI**
+
+*Last Updated / Son Güncelleme: 14 Aralık 2025*
+
+---
+
+## English Version
+
+### Introduction
+
+LegalCheckAI ("App", "we", "us", or "our") respects your privacy. This Privacy Policy explains how our mobile application works regarding data and privacy.
+
+### No Data Collection
+
+**We do not collect, store, or transmit any personal data.** 
+
+- We have no servers or backend infrastructure
+- We do not store your documents on any external servers
+- We do not track users or collect analytics
+- We do not require account registration
+- All data stays on your device only
+
+### Local Processing Only
+
+- All document analysis is performed entirely on your device
+- Analysis results are stored only in your device's local storage (Core Data)
+- You have full control over your data and can delete it anytime through the app
+
+### Third-Party AI Service
+
+When you analyze a document, the text content is sent to Google's Gemini AI API for processing:
+- Only the document text is sent (no personal identifiers)
+- Processing happens in real-time and is not stored by us
+- Google's privacy policy applies to their API: https://policies.google.com/privacy
+
+### No Liability Disclaimer
+
+**IMPORTANT: WE ACCEPT NO LIABILITY WHATSOEVER.**
+
+- This app is provided "AS IS" without any warranties
+- We are NOT responsible for any decisions made based on the app's analysis
+- We are NOT liable for any direct, indirect, incidental, or consequential damages
+- The app does NOT provide legal advice
+- The app is NOT a substitute for professional legal consultation
+- Users assume all risks associated with using this app
+- AI analysis may contain errors, omissions, or inaccuracies
+
+**By using this app, you acknowledge and agree that:**
+1. You will not hold us liable for any outcomes
+2. You will seek professional legal advice for important decisions
+3. You understand the app is for informational purposes only
+
+### Children's Privacy
+
+Our App is not intended for children under 13. We do not knowingly collect any information from children.
+
+### Contact Us
+
+For questions about this Privacy Policy:
+- Email: info@azecorporation.com
+
+---
+
+## Türkçe Versiyon
+
+### Giriş
+
+LegalCheckAI ("Uygulama", "biz") gizliliğinize saygı duyar. Bu Gizlilik Politikası, mobil uygulamamızın veri ve gizlilik konusundaki işleyişini açıklar.
+
+### Veri Toplamıyoruz
+
+**Hiçbir kişisel veri toplamıyor, saklamıyor veya iletmiyoruz.**
+
+- Sunucumuz veya backend altyapımız yoktur
+- Belgelerinizi hiçbir harici sunucuda saklamıyoruz
+- Kullanıcıları takip etmiyor veya analitik toplamıyoruz
+- Hesap kaydı gerektirmiyoruz
+- Tüm veriler yalnızca cihazınızda kalır
+
+### Yalnızca Yerel İşleme
+
+- Tüm belge analizleri tamamen cihazınızda gerçekleştirilir
+- Analiz sonuçları yalnızca cihazınızın yerel depolama alanında (Core Data) saklanır
+- Verileriniz üzerinde tam kontrole sahipsiniz ve istediğiniz zaman uygulama üzerinden silebilirsiniz
+
+### Üçüncü Taraf AI Hizmeti
+
+Bir belgeyi analiz ettiğinizde, metin içeriği işlenmek üzere Google'ın Gemini AI API'sine gönderilir:
+- Yalnızca belge metni gönderilir (kişisel tanımlayıcı yok)
+- İşleme gerçek zamanlı yapılır ve tarafımızca saklanmaz
+- Google'ın gizlilik politikası API'leri için geçerlidir: https://policies.google.com/privacy
+
+### Sorumluluk Reddi
+
+**ÖNEMLİ: HİÇBİR SORUMLULUK KABUL ETMİYORUZ.**
+
+- Bu uygulama herhangi bir garanti olmaksızın "OLDUĞU GİBİ" sağlanmaktadır
+- Uygulamanın analizlerine dayanılarak alınan kararlardan SORUMLU DEĞİLİZ
+- Doğrudan, dolaylı, arızi veya sonuç olarak ortaya çıkan hiçbir zarardan SORUMLU DEĞİLİZ
+- Uygulama hukuki tavsiye VERMEZ
+- Uygulama profesyonel hukuki danışmanlığın YERİNİ ALMAZ
+- Kullanıcılar bu uygulamayı kullanmanın tüm risklerini üstlenir
+- AI analizi hatalar, eksiklikler veya yanlışlıklar içerebilir
+
+**Bu uygulamayı kullanarak şunları kabul ve beyan edersiniz:**
+1. Herhangi bir sonuç için bizi sorumlu tutmayacaksınız
+2. Önemli kararlar için profesyonel hukuki danışmanlık alacaksınız
+3. Uygulamanın yalnızca bilgilendirme amaçlı olduğunu anlıyorsunuz
+
+### Çocukların Gizliliği
+
+Uygulamamız 13 yaşın altındaki çocuklar için tasarlanmamıştır. Çocuklardan bilerek hiçbir bilgi toplamıyoruz.
+
+### İletişim
+
+Bu Gizlilik Politikası hakkında sorularınız için:
+- E-posta: info@azecorporation.com
+
+---
+
+## Legal Disclaimer / Yasal Sorumluluk Reddi
+
+### English
+
+**COMPLETE DISCLAIMER OF LIABILITY**
+
+LegalCheckAI and its developers, owners, and affiliates ("Parties") expressly disclaim all liability arising from or related to the use of this application.
+
+THE PARTIES SHALL NOT BE LIABLE FOR:
+- Any legal, financial, or personal consequences arising from use of this app
+- Errors, inaccuracies, or omissions in AI-generated analysis
+- Any decisions made based on information provided by this app
+- Loss of data, business, or opportunity
+- Any direct, indirect, special, incidental, or consequential damages
+
+THIS APP DOES NOT PROVIDE LEGAL ADVICE. Users must consult qualified legal professionals for legal matters.
+
+### Türkçe
+
+**TAM SORUMLULUK REDDİ**
+
+LegalCheckAI ve geliştiricileri, sahipleri ve bağlı kuruluşları ("Taraflar"), bu uygulamanın kullanımından kaynaklanan veya bununla ilgili tüm sorumluluğu açıkça reddeder.
+
+TARAFLAR ŞUNLARDAN SORUMLU DEĞİLDİR:
+- Bu uygulamanın kullanımından kaynaklanan herhangi bir hukuki, mali veya kişisel sonuç
+- AI tarafından üretilen analizdeki hatalar, yanlışlıklar veya eksiklikler
+- Bu uygulama tarafından sağlanan bilgilere dayanılarak alınan kararlar
+- Veri, iş veya fırsat kaybı
+- Herhangi bir doğrudan, dolaylı, özel, arızi veya sonuç olarak ortaya çıkan zarar
+
+BU UYGULAMA HUKUKİ TAVSİYE SAĞLAMAZ. Kullanıcılar hukuki konular için yetkili hukuk profesyonellerine danışmalıdır.
